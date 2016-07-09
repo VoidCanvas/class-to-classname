@@ -1,0 +1,24 @@
+{
+  "name": "class-to-classname",
+  "version": "1.0.0",
+  "description": "This is a webpack loader to give you the freedom to use class instead of className in your JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoidCanvas/class-to-classname.git"
+  },
+  "keywords": [
+    "className",
+    "react",
+    "jsx"
+  ],
+  "author": "Paul Shan <paul@voidcanvas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VoidCanvas/class-to-classname/issues"
+  },
+  "homepage": "https://github.com/VoidCanvas/class-to-classname#readme"
+}
