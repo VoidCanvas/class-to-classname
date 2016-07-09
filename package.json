@@ -1,6 +1,6 @@
 {
   "name": "class-to-classname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a webpack loader to give you the freedom to use class instead of className in your JSX",
   "main": "index.js",
   "scripts": {
